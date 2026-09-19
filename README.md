@@ -1,2 +1,1 @@
-# dreamcore-landing
-Immersive parallax landing
+# Dreamcore Landing
